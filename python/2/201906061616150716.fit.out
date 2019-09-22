@@ -1,0 +1,221 @@
+
+
+
+
+
+0000000000
+
+
+
+
+EXPOSURE=   60.000000000000000 /Exposure time in seconds                        
+SET-TEMP=  -60.000000000000000 /CCD temperature setpoint in C                   
+CCD-TEMP=  -59.127998352050781 /CCD temperature at start of exposure in C       
+XPIXSZ  =   13.000000000000000 /Pixel Width in microns (after binning)          
+YPIXSZ  =   13.000000000000000 /Pixel Height in microns (after binning)         
+XBINNING=                    1 /Binning factor in width                         
+YBINNING=                    1 /Binning factor in height                        
+XORGSUBF=                    0 /Subframe X position in binned pixels            
+YORGSUBF=                    0 /Subframe Y position in binned pixels            
+FILTER  = 'g       ' /          Filter used when taking image                   
+IMAGETYP= 'Light Frame' /       Type of image                                   
+FOCALLEN=   4664.0000000000000 /Focal length of telescope in mm                 
+APTDIA  =  0.00000000000000000 /Aperture diameter of telescope in mm            
+APTAREA =  0.00000000000000000 /Aperture area of telescope in mm^2              
+SBSTDVER= 'SBFITSEXT Version 1.0' /Version of SBFITSEXT standard in effect      
+SWCREATE= 'MaxIm DL Version 6.17 181226 0V2FC' /Name of software                
+SWSERIAL= '0V2FC-9AT7K-7RQQA-VM6Y5-N6V9X-7J' /Software serial number            
+OBJCTRA = '07 21 53' /          Nominal Right Ascension of center of image      
+OBJCTDEC= '+71 20 37' /         Nominal Declination of center of image          
+OBJCTALT= ' 14.4659' /          Nominal altitude of center of image             
+OBJCTAZ = '344.8499' /          Nominal azimuth of center of image              
+OBJCTHA = '  8.5239' /          Nominal hour angle of center of image           
+PIERSIDE= 'EAST    ' /          Side of pier telescope is on                    
+SITELAT = '26 41 44' /          Latitude of the imaging location                
+SITELONG= '100 01 52' /         Longitude of the imaging location               
+JD      =   2458641.1772453706 /Julian Date at start of exposure                
+JD-HELIO=   2458641.1740606539 /Heliocentric Julian Date at exposure midpoint   
+AIRMASS =   3.9133777999671415 /Relative optical path length through atmosphere 
+OBJECT  = '0716    '                                                            
+TELESCOP= '        ' /          telescope used to acquire this image            
+INSTRUME= 'Andor Tech'                                                          
+OBSERVER= '        '                                                            
+NOTES   = '        '                                                            
+FLIPSTAT= '        '                                                            
+MAXIMDT = '2019-06-06T16:15:14'                                                 
+GPSTIME = '16:10:58.448'                                                        
+
+
+
+
+
+1111111111
+
+
+
+
+OBJERA  =   110.47269583333301                                                  
+OBJEDEC =   71.343430555555599                                                  
+SWOWNER = 'IAA-CSIC-1 (Alberto J Castro-Tirado)' /Licensed owner of software    
+CTYPE1  = 'RA---TAN-SIP' / TAN (gnomic) projection + SIP distortions            
+CTYPE2  = 'DEC--TAN-SIP' / TAN (gnomic) projection + SIP distortions            
+WCSAXES =                    2 / no comment                                     
+EQUINOX =               2000.0 / Equatorial coordinates definition (yr)         
+LONPOLE =                180.0 / no comment                                     
+LATPOLE =                  0.0 / no comment                                     
+CRVAL1  =        110.387222844 / RA  of reference point                         
+CRVAL2  =        71.3547075841 / DEC of reference point                         
+CRPIX1  =                  513 / X reference pixel                              
+CRPIX2  =                  513 / Y reference pixel                              
+CUNIT1  = 'deg     ' / X pixel scale units                                      
+CUNIT2  = 'deg     ' / Y pixel scale units                                      
+CD1_1   =    2.39363824921E-05 / Transformation matrix                          
+CD1_2   =   -0.000158184516174 / no comment                                     
+CD2_1   =   -0.000157959116268 / no comment                                     
+CD2_2   =   -2.41792850331E-05 / no comment                                     
+IMAGEW  =                 1024 / Image width,  in pixels.                       
+IMAGEH  =                 1024 / Image height, in pixels.                       
+A_ORDER =                    2 / Polynomial order, axis 1                       
+A_0_2   =   -1.18553104029E-06 / no comment                                     
+A_1_1   =   -9.02897857565E-07 / no comment                                     
+A_2_0   =   -3.77095492418E-06 / no comment                                     
+B_ORDER =                    2 / Polynomial order, axis 2                       
+B_0_2   =   -1.73033404222E-06 / no comment                                     
+B_1_1   =   -6.98290445303E-07 / no comment                                     
+B_2_0   =   -3.79712219995E-07 / no comment                                     
+AP_ORDER=                    2 / Inv polynomial order, axis 1                   
+AP_0_1  =    1.96552687238E-06 / no comment                                     
+AP_0_2  =    1.18554496986E-06 / no comment                                     
+AP_1_0  =    6.04389675314E-06 / no comment                                     
+AP_1_1  =    9.02840756802E-07 / no comment                                     
+AP_2_0  =    3.77088505126E-06 / no comment                                     
+BP_ORDER=                    2 / Inv polynomial order, axis 2                   
+
+
+
+
+
+2222222222
+
+
+
+
+BP_0_1  =    1.62254127671E-06 / no comment                                     
+BP_0_2  =     1.7303199886E-06 / no comment                                     
+BP_1_0  =    1.00683630146E-06 / no comment                                     
+BP_1_1  =    6.98266636197E-07 / no comment                                     
+BP_2_0  =    3.79708822697E-07 / no comment                                     
+HISTORY Created by the Astrometry.net suite.                                    
+HISTORY For more details, see http://astrometry.net .                           
+HISTORY Subversion URL                                                          
+HISTORY   svn+ssh://astrometry.net/svn/tags/tarball-0.38/astrometry/            
+HISTORY   util/                                                                 
+HISTORY Subversion revision 16745                                               
+HISTORY Subversion date 2010-11-19 20:47:53 +0000 (Fri, 19 Nov                  
+HISTORY   2010)                                                                 
+HISTORY This WCS header was created by the program "blind".                     
+DATE    = '2019-06-06T16:16:25' / Date this file was created.                   
+COMMENT -- blind solver parameters: --                                          
+COMMENT Index(0): /usr/share/astrometry/data/index-4205-01.fits                 
+COMMENT Index(1): /usr/share/astrometry/data/index-4205-00.fits                 
+COMMENT Index(2): /usr/share/astrometry/data/index-4204-07.fits                 
+COMMENT Index(3): /usr/share/astrometry/data/index-4204-05.fits                 
+COMMENT Index(4): /usr/share/astrometry/data/index-4204-03.fits                 
+COMMENT Index(5): /usr/share/astrometry/data/index-4204-02.fits                 
+COMMENT Index(6): /usr/share/astrometry/data/index-4203-07.fits                 
+COMMENT Index(7): /usr/share/astrometry/data/index-4203-05.fits                 
+COMMENT Index(8): /usr/share/astrometry/data/index-4203-03.fits                 
+COMMENT Index(9): /usr/share/astrometry/data/index-4203-02.fits                 
+COMMENT Index(10): /usr/share/astrometry/data/index-4202-07.fits                
+COMMENT Index(11): /usr/share/astrometry/data/index-4202-05.fits                
+COMMENT Index(12): /usr/share/astrometry/data/index-4202-03.fits                
+COMMENT Index(13): /usr/share/astrometry/data/index-4202-02.fits                
+COMMENT Index(14): /usr/share/astrometry/data/index-4201-07.fits                
+COMMENT Index(15): /usr/share/astrometry/data/index-4201-05.fits                
+COMMENT Index(16): /usr/share/astrometry/data/index-4201-03.fits                
+COMMENT Index(17): /usr/share/astrometry/data/index-4201-02.fits                
+COMMENT Index(18): /usr/share/astrometry/data/index-4200-07.fits                
+COMMENT Index(19): /usr/share/astrometry/data/index-4200-05.fits                
+
+
+
+
+
+3333333333
+
+
+
+
+COMMENT Index(20): /usr/share/astrometry/data/index-4200-03.fits                
+COMMENT Index(21): /usr/share/astrometry/data/index-4200-02.fits                
+COMMENT Index(22): /usr/share/astrometry/data/index-203-01.fits                 
+COMMENT Index(23): /usr/share/astrometry/data/index-203-00.fits                 
+COMMENT Index(24): /usr/share/astrometry/data/index-202-01.fits                 
+COMMENT Index(25): /usr/share/astrometry/data/index-202-00.fits                 
+COMMENT Field name: /temp/stars.axy                                             
+COMMENT Field scale lower: 0.5 arcsec/pixel                                     
+COMMENT Field scale upper: 0.6 arcsec/pixel                                     
+COMMENT X col name: X                                                           
+COMMENT Y col name: Y                                                           
+COMMENT Start obj: 0                                                            
+COMMENT End obj: 10                                                             
+COMMENT Solved_in: (null)                                                       
+COMMENT Solved_out: /temp/stars.solved                                          
+COMMENT Solvedserver: (null)                                                    
+COMMENT Parity: 2                                                               
+COMMENT Codetol: 0.01                                                           
+COMMENT Verify pixels: 1 pix                                                    
+COMMENT Maxquads: 0                                                             
+COMMENT Maxmatches: 0                                                           
+COMMENT Cpu limit: 300.000000 s                                                 
+COMMENT Time limit: 0 s                                                         
+COMMENT Total time limit: 0 s                                                   
+COMMENT Total CPU limit: 0.000000 s                                             
+COMMENT Tweak: yes                                                              
+COMMENT Tweak AB order: 2                                                       
+COMMENT Tweak ABP order: 2                                                      
+COMMENT --                                                                      
+COMMENT -- properties of the matching quad: --                                  
+COMMENT index id: 4202                                                          
+COMMENT index healpix: 7                                                        
+COMMENT index hpnside: 2                                                        
+COMMENT log odds: 102.621                                                       
+COMMENT odds: 3.69642e+44                                                       
+COMMENT quadno: 2883781                                                         
+
+
+
+
+
+4444444444
+
+
+
+
+COMMENT stars: 1449210,1449086,1449098,1449146                                  
+COMMENT field: 5,3,9,0                                                          
+COMMENT code error: 0.00192408                                                  
+COMMENT nmatch: 22                                                              
+COMMENT nconflict: 0                                                            
+COMMENT nfield: 48                                                              
+COMMENT nindex: 53                                                              
+COMMENT scale: 0.575611 arcsec/pix                                              
+COMMENT parity: 0                                                               
+COMMENT quads tried: 13                                                         
+COMMENT quads matched: 6                                                        
+COMMENT quads verified: 0                                                       
+COMMENT objs tried: 10                                                          
+COMMENT cpu time: 0                                                             
+END                                                                             
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
